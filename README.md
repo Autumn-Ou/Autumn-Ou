@@ -1,4 +1,6 @@
 - ☕Java developer
+- 🤖 Check out FRC-Resources and frcteam3044
+
 - Not really sure why you're reading this but hi
 
 <!---
