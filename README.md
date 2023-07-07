@@ -1,6 +1,4 @@
-## Hi Not Sure Why You're Here But Welcome
-
- - Team Captain & Java Developer for FRC Team 3044
+## You're a nerd
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Autumn-Ou)](https://github.com/LordDashMe/github-contribution-stats/)
 
